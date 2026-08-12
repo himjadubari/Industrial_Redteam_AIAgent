@@ -1,0 +1,9 @@
+streamlit
+dotenv
+scipy 
+optuna 
+simple-pid 
+plotly 
+pandas 
+numpy 
+google-genai
